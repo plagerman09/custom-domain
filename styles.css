@@ -22,3 +22,8 @@ div h3 {
     margin: 10px;
     font-size: 8rem;
 }
+
+div p {
+    align-self: flex-end;
+    font-size: .75rem;
+}
