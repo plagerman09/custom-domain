@@ -1,7 +1,19 @@
-div.intro{
+.intro{
     font-family: 'Righteous', cursive;
+    background: red;
+    display: flex;
+    flex-direction: column;
 }
 
 div h1 {
     font-size: 2.25 rem;
+}
+
+div h2 {
+
+}
+
+div h3 {
+    
+
 }
