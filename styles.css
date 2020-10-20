@@ -8,14 +8,17 @@
 div h1 {
     align-self: flex-start;
     margin: 10px;
+    font-size: 8rem;
 }
 
 div h2 {
     align-self: flex-end;
     margin: 10px;
+    font-size: 14rem;
 }
 
 div h3 {
     align-self: flex-end;
     margin: 10px;
+    font-size: 8rem;
 }
