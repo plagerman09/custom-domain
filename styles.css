@@ -7,13 +7,15 @@
 
 div h1 {
     align-self: flex-start;
+    margin: 10px;
 }
 
 div h2 {
     align-self: flex-end;
+    margin: 10px;
 }
 
 div h3 {
     align-self: flex-end;
-
+    margin: 10px;
 }
