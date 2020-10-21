@@ -3,6 +3,9 @@
     background: red;
     display: flex;
     flex-direction: column;
+    background: rgb(255,255,255);
+    background: linear-gradient(145deg, rgba(255,255,255,1) 0%, rgba(187,187,187,1) 47%, rgba(105,106,106,1) 100%);
+    
 }
 
 div h1 {
