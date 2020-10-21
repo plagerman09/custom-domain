@@ -12,7 +12,7 @@ div h1 {
     margin-top: 20px;
     margin-bottom: 10px;
     margin-left: 20px;
-    font-size: 10rem;
+    font-size: 14rem;
 }
 
 .animation {
@@ -25,11 +25,12 @@ div h2 {
     margin-top: 10px;
     margin-bottom: 10px;
     margin-right: 20px;
-    font-size: 18rem;
+    font-size: 25rem;
 }
 
 div h3 {
     align-self: flex-end;
+    margin-top: 10px;
     margin-bottom: 10px;
     margin-right: 20px;
     font-size: 8rem;
@@ -39,4 +40,5 @@ div p {
     align-self: flex-end;
     font-size: 3rem;
     margin-right: 20px;
+    width: 200rem;
 }
