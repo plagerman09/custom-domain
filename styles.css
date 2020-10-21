@@ -12,6 +12,11 @@ div h1 {
     font-size: 8rem;
 }
 
+.animation {
+    animation: backInRight;
+    animation-duration: 4s;
+}
+
 div h2 {
     align-self: flex-end;
     margin: 10px;
