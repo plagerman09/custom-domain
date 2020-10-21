@@ -22,6 +22,8 @@ div img {
     max-width: 40rem;
     max-height: 50rem;
     border: 5px black solid;
+    border-radius: 2rem;
+    margin-top: 30px;
 }
 
 .animation {
