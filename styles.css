@@ -21,6 +21,7 @@ div img {
     left: 258rem;
     max-width: 40rem;
     max-height: 50rem;
+    border: 5px black solid;
 }
 
 .animation {
