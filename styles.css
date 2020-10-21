@@ -15,6 +15,12 @@ div h1 {
     font-size: 14rem;
 }
 
+div img {
+    position: absolute;
+    margin: 10px;
+    right: 10px;
+}
+
 .animation {
     animation: backInRight;
     animation-duration: 4s;
